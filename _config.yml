@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Xin Yang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : ""
+  location         : "Beijing, China"
+  employer         : "China Academy of Information and Communications Technology"
+  uri              : "https://www.zhihu.com/people/wo-te-58-40"
+  email            : "yangxincps@163.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
